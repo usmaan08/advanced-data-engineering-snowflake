@@ -65,3 +65,6 @@ jobs:
           -D "env='${{env.DEPLOY_ENV }}'" \
           --database=COURSE_REPO \
           --schema=PUBLIC
+
+
+
